@@ -36,3 +36,5 @@ The network architecture is similar to LeNet and the details of each layer is as
 | Dropout	          	|         			|
 | Fully connected		| Input = 84. Output = 43.        			|
 | Softmax				| Output layer      							|
+
+See complete tutorial [here](https://medium.com/@junma/train-a-tensorflow-model-in-amazon-sagemaker-e2df9b036a8?sk=96dfa2af2602c5440359e44b16ad2f18)
